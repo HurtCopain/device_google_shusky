@@ -2,5 +2,9 @@
   {
     "repository"  : "device_google_zuma",
     "target_path" : "device/google/zuma"
+  },
+  {
+    "repository"  : "packages_apps_PixelParts",
+    "target_path" : "packages/apps/PixelParts"
   }
 ]
