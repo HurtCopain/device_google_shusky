@@ -19,6 +19,9 @@ TARGET_BOARD_KERNEL_HEADERS := device/google/shusky-kernel/kernel-headers
 
 LOCAL_PATH := device/google/shusky
 
+# Kernel
+TARGET_PREBUILT_KERNEL := device/google/shusky-kernel/Image.lz4
+
 ifneq (,$(filter eng, $(TARGET_BUILD_VARIANT)))
     USE_UWBFIELDTESTQM := true
 endif
