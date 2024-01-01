@@ -21,6 +21,7 @@ LOCAL_PATH := device/google/shusky
 
 # Kernel
 TARGET_PREBUILT_KERNEL := device/google/shusky-kernel/Image.lz4
+TARGET_PREBUILT_KERNEL := true
 
 ifneq (,$(filter eng, $(TARGET_BUILD_VARIANT)))
     USE_UWBFIELDTESTQM := true
