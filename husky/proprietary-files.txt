@@ -88,7 +88,6 @@ system_ext/framework/com.google.android.camerax.extensions.jar
 
 # Display
 system_ext/lib64/libpixeldisplaymanager_jni.so
-system_ext/priv-app/PixelDisplayService/PixelDisplayService.apk
 
 # Edge TPU
 system_ext/bin/hw/vendor.google.edgetpu_app_service@1.0-service
