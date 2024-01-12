@@ -1,6 +1,5 @@
 # All blobs are extracted from Google factory images for each new ASB
 vendor/apex/com.android.hardware.cas.apex
-vendor/apex/com.android.vndk.current.on_vendor.apex
 vendor/apex/com.google.android.hardware.biometrics.face.pixel23.apex
 vendor/apex/com.google.android.hardware.biometrics.fingerprint.apex
 vendor/apex/com.google.android.widevine-wv_341113000.apex
