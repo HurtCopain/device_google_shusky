@@ -1,5 +1,4 @@
 # All blobs are extracted from Google factory images for each new ASB
-vendor/apex/com.android.hardware.cas.apex
 vendor/apex/com.google.android.hardware.biometrics.face.pixel23.apex
 vendor/apex/com.google.android.hardware.biometrics.fingerprint.apex
 vendor/apex/com.google.android.widevine-wv_341113000.apex
@@ -15,12 +14,6 @@ vendor/bin/dump/dump_display_logbuffer
 vendor/bin/dump/dump_power
 vendor/bin/dump/dump_storage
 vendor/bin/factory/qm35_poll
-vendor/bin/gpiodetect
-vendor/bin/gpiofind
-vendor/bin/gpioget
-vendor/bin/gpioinfo
-vendor/bin/gpioset
-vendor/bin/gpu_probe
 vendor/bin/hw/android.hardware.authsecret-service.citadel
 vendor/bin/hw/android.hardware.bluetooth-service.bcmbtlinux
 vendor/bin/hw/android.hardware.boot-service.default-pixel
@@ -54,7 +47,6 @@ vendor/bin/hw/vendor.google.edgetpu_vendor_service@1.0-service
 vendor/bin/hw/vendor.google.google_battery-service
 vendor/bin/hw/vendor.google.radioext@1.0-service
 vendor/bin/hw/vendor.google.wireless_charger-default
-vendor/bin/i2ctransfer
 vendor/bin/init.camera.set-interrupts-ownership
 vendor/bin/init.radio.sh
 vendor/bin/init_uwb_calib
@@ -81,7 +73,6 @@ vendor/etc/boringssl_self_test.no_zygote.rc
 vendor/etc/boringssl_self_test.zygote32.rc
 vendor/etc/boringssl_self_test.zygote64.rc
 vendor/etc/boringssl_self_test.zygote64_32.rc
-vendor/etc/build_flags.json
 vendor/etc/chre/activity.napp_header
 vendor/etc/chre/activity.so
 vendor/etc/chre/ambient.napp_header
