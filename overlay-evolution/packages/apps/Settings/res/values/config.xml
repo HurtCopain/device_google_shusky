@@ -18,4 +18,8 @@
     <!-- Whether to show Smooth Display feature in Settings Options -->
     <bool name="config_show_smooth_display">true</bool>
     <bool name="config_show_reverse_charging">true</bool>
+    
+    <!-- Maintainer info -->
+    <string name="config_maintainer_name" translatable="false">Hurt Copain</string>
+    <string name="config_maintainer_link"  translatable="false">https://github.com/HurtCopain/</string>
 </resources>
